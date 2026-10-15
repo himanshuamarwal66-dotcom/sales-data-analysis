@@ -20,3 +20,9 @@ Quantity, and Price columns.
 
 ## Author
 Aspiring Data Analyst
+
+## Result
+-Total revenue: ₹3,59,400
+-Highest quantity sold: Mouse (30 units)
+-Highest revenue: Laptop (₹2,70,000)
+-Tools: Microsoft Excel, GitHub
